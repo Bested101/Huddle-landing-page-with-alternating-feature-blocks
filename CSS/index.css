@@ -144,7 +144,7 @@ section{
   gap: 30px;
   flex-direction: row-reverse;
   border-radius: 10px;
-  box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 10px 0px rgba(189, 189, 189, 0.4);
 }
 section p{
   color: var(--Dark-Cyan);
@@ -187,7 +187,7 @@ footer .start{
   align-items: center;
   flex-flow: column wrap;
   gap: 30px;
-  box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.4) ;
+  box-shadow: 0 0 5px 0px rgba(189, 189, 189, 0.4) ;
   justify-content: center;
 }
 footer{
@@ -231,7 +231,7 @@ footer{
   position: relative;
   z-index: 2;
 }
-.media i div{
+.media i span{
   content: "";
   position: absolute;
   top: 50%;
