@@ -327,7 +327,7 @@ button{
   box-shadow: 0 2px 8px 0px rgba(0, 0, 0, 0.4);
 }
 button:hover{
-  box-shadow: 0 1px 8px 0px rgba(0, 0, 0, 0.4) , 0 0 0 50px rgba(252, 252, 252, 0.222) inset ;
+  box-shadow: 0 1px 8px 0px rgba(60, 60, 60, 0.4) , 0 0 0 50px rgba(252, 252, 252, 0.222) inset ;
   transform: scale(1.05);
 }
 
